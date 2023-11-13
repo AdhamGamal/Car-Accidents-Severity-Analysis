@@ -1,5 +1,5 @@
 # Leeds 2011: Car Accidents Severity Analysis and Classification
-## By: Adham Gamal
+**By: Adham Gamal**
 
 ## Project Overview:
 
